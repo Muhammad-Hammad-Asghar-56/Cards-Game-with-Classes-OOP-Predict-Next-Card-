@@ -1,0 +1,2 @@
+D:\2nd Semester\OOP\cardsGame\cardsGame\obj\Debug\cardsGame.csproj.AssemblyReference.cache
+D:\2nd Semester\OOP\cardsGame\cardsGame\obj\Debug\cardsGame.csproj.CoreCompileInputs.cache
